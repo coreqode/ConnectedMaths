@@ -1,3 +1,3 @@
-# Andromeda
+# ConnectedMaths
 
-Collection of notes and concepts useful in research. 
+An effort to have a eagle eye view of mathematics topics.
