@@ -1,7 +1,7 @@
 ---
 title: "Bayesian Decision Theory"
 ---
--   It is a fundamental statistical approach to the problem of pattern classification. It predicts the outcome not only based on previous observations but also by taking into account the current situation. It uses [[Bayes Theorem]] heavily.
+-   It is a fundamental statistical approach to the problem of pattern classification. It predicts the outcome not only based on previous observations but also by taking into account the current situation. It uses [[notes/Bayes Theorem]] heavily.
     
     -   Bayes' theorem is used to describe the probability of an event based on the prior knowledge of conditions that might be related to the event. For example, if the risk of developing health problems increases with age, Bayes' theorem allows the risk to an individual of a known age to be addressed more accurately. Bayes' theorem states that,
         
