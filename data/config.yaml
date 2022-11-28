@@ -5,12 +5,12 @@ enableLinkPreview: true
 enableLatex: true
 enableCodeBlockTitle: true
 enableCodeBlockCopy: true
-enableCallouts: true
-enableSPA: true
-enableFooter: true
+enableCallouts: false
+enableSPA: false
+enableFooter: false
 enableContextualBacklinks: true
 enableRecentNotes: true
-enableGitHubEdit: true
+enableGitHubEdit: false
 GitHubLink: https://github.com/coreqode/connected-maths/
 search:
   enableSemanticSearch: true

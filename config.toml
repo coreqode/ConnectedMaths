@@ -1,6 +1,6 @@
 baseURL = "https://coreqode.github.io/connected-maths/"
 languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+googleAnalytics = ""
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
