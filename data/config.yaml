@@ -5,7 +5,7 @@ enableLinkPreview: true
 enableLatex: true
 enableCodeBlockTitle: true
 enableCodeBlockCopy: true
-enableCallouts: false
+enableCallouts: true
 enableSPA: true
 enableFooter: false
 enableContextualBacklinks: true
