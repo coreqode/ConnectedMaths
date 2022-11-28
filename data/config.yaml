@@ -1,6 +1,6 @@
 name: Chandradeep Pokhariya
 enableToc: true
-openToc: false
+openToc: true
 enableLinkPreview: true
 enableLatex: true
 enableCodeBlockTitle: true
@@ -13,13 +13,13 @@ enableRecentNotes: true
 enableGitHubEdit: true
 GitHubLink: https://github.com/coreqode/connected-maths/
 search:
-  enableSemanticSearch: false
+  enableSemanticSearch: true
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
   An effort to have a eagle eye view of mathematics topics.
 page_title:
-  "Connected Maths"
+  "🧠 Connected Maths"
 links:
   - link_name: Twitter
     link: https://twitter.com/coreqode
