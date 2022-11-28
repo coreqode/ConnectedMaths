@@ -1,6 +1,6 @@
 ---
 title: Connected Maths
-enableToc: true
+enableToc: false
 ---
 
 
