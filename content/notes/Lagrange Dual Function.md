@@ -1,5 +1,6 @@
 ---
 title: "Lagrange Dual Function"
+tags: calculus
 ---
 -   Lagrangian: Define Lagrangian $(L: \mathbb{R}^n \times \mathbb{R}^m \times \mathbb{R}^p \rightarrow \mathbb{R})$ as
     
