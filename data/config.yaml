@@ -7,7 +7,7 @@ enableCodeBlockTitle: true
 enableCodeBlockCopy: true
 enableCallouts: true
 enableSPA: true
-enableFooter: false
+enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: true
 enableGitHubEdit: false
