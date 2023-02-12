@@ -9,9 +9,9 @@ tags: probabilistic-modelling
     
     $$Underlying Truth = \frac{Likelihood \times Belief(Prior Probability)}{Evidence} $$
     
-    -   where \(A\) and \(B\) are the events and \(P(B) \neq 0\)
+    -   where (A) and \(B\) are the events and (P(B) $\neq$ 0)
     -   \(P(A|B)\) is a Conditional Probability; the probability of event \(A\) occurring given that \(B\) is true. This is also called Posterior Probability of \(A\) given \(B\).
-    -   \(P(B|A)\) is also a conditional probability; the probability of event \(B\) occurring given that \(A\) is true. It can also be interpreted as likelihood of \(A\) given fixed \(B\).
+    -  (P(B|A)) is also a conditional probability; the probability of event (B) occurring given that (A) is true. It can also be interpreted as likelihood of (A) given fixed (B).
     -   \(P(A)\) and \(P(B)\) are the probabilities of observing \(A\) and \(B\) respectively, without any given conditions; they are also known as marginal probabilities.
 -   Proof of Bayes' Theorem for discrete events.
     

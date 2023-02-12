@@ -38,5 +38,3 @@ tags: probabilistic-modelling
         -   The resulting minimum overall risk is called **Bayes Risk** and is the best performance that can be achieved:
             
             $$R^* = min(R)$$
-            
--   Why is Bayes' Classifier is the best classifier?
