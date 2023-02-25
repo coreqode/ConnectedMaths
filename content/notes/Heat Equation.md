@@ -2,7 +2,7 @@
 title: "Heat Equation"
 ---
 Heat equation aims to model the distribution of heat over a surface with time. For 3 dimension, it is given as:
-		   $\frac{\partial T}{\partial t} = \alpha(\frac{\partial^2 T}{\partial x^2}+\frac{\partial^2 T}{\partial y^2}+\frac{\partial^2 T}{\partial z^2})$ = $\alpha \nabla^2T$ 
+$\frac{\partial T}{\partial t} = \alpha(\frac{\partial^2 T}{\partial x^2}+\frac{\partial^2 T}{\partial y^2}+\frac{\partial^2 T}{\partial z^2})$ = $\alpha \nabla^2T$ 
 The right hand side is the [[Laplacian]] operator. It states that the change in temperature at a give point $u$ is linearly dependent on the second derivative of the the temperature at that point, with respect to the space ( shape ). Here $\alpha$ is the thermal *diffusivity* of the medium. 
 
 
