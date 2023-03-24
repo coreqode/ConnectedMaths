@@ -13,7 +13,7 @@ Laplace Beltrami operator ($\Delta$) takes a function and gives out another func
 
  ###### Eigen functions
  Eigen functions on the LB of a shape ( or manifold $\mathcal{M}$) has desirable properties. Any function on $\mathcal{M}$ can be expressed as a linear sum of the eigen functions on the LB  of $\mathcal{M}$. The basis function can be given as
- $f = \sum^\inf_0 c_i \phi_i = \sum^\inf_0<f_i, \phi_i>\phi_i =  \sum^k_0<f_i, \phi_i>\phi_i$ 
+ $$ f = \sum^\inf_0 c_i \phi_i = \sum^\inf_0<f_i, \phi_i>\phi_i =  \sum^k_0<f_i, \phi_i>\phi_i $$
 
 It is very similar to Fourier transforms.
 

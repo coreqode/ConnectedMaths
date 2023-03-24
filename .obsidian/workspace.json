@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/3D Surface Represenations.md",
-                "mode": "source",
+                "file": "content/notes/Laplace-Beltrami.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/3D Surface Represenations.md",
+                "file": "content/notes/Laplace-Beltrami.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/3D Surface Represenations.md",
+                "file": "content/notes/Laplace-Beltrami.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/3D Surface Represenations.md"
+                "file": "content/notes/Laplace-Beltrami.md"
               }
             }
           }
@@ -150,9 +150,9 @@
   },
   "active": "5906ea9cb535016a",
   "lastOpenFiles": [
+    "content/notes/3D Surface Represenations.md",
     "content/notes/Laplace-Beltrami.md",
     "content/notes/Home.md",
-    "content/notes/3D Surface Represenations.md",
     "content/notes/Geometry Processing.md",
     "content/notes/Position Based Dynamics.md",
     "content/notes/Lagrange Dual Function.md",
