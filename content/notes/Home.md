@@ -3,8 +3,8 @@ title: "Home"
 ---
 Homepage
 
-- [[Calculus]]
-- [[Geometry Processing]]
+- [[notes/Calculus]]
+- [[notes/Geometry Processing]]
 
 
 

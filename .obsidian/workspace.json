@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/Position Based Dynamics.md",
+                "file": "content/notes/Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Position Based Dynamics.md",
+                "file": "content/notes/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Position Based Dynamics.md",
+                "file": "content/notes/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Position Based Dynamics.md"
+                "file": "content/notes/Home.md"
               }
             }
           }
@@ -150,11 +150,12 @@
   },
   "active": "5906ea9cb535016a",
   "lastOpenFiles": [
+    "content/notes/3D Surface Represenations.md",
+    "content/notes/Geometry Processing.md",
+    "content/notes/Position Based Dynamics.md",
     "content/notes/Lagrange Dual Function.md",
     "content/notes/Dirichlet Energy.md",
-    "content/notes/3D Surface Represenations.md",
     "content/notes/Home.md",
-    "content/notes/Geometry Processing.md",
     "content/notes/Calculus.md",
     "content/notes/Covariance.md",
     "content/notes/cummulative distributive function.md",
@@ -162,7 +163,6 @@
     "content/notes/Gaussian Mixture Models.md",
     "content/notes/Heat Equation.md",
     "content/notes/Kalman Filter.md",
-    "content/notes/Position Based Dynamics.md",
     "content/notes/Probabilistic Modelling.md",
     "content/notes/Quaternions.md",
     "content/notes/Bayesian Decision Theory.md",
