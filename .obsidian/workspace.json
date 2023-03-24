@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5906ea9cb535016a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/Laplace-Beltrami.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4439e3b8bb024d30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/Curvature.md",
-                "mode": "preview",
+                "file": "content/notes/Geometry Processing.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Curvature.md",
+                "file": "content/notes/Geometry Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Curvature.md",
+                "file": "content/notes/Geometry Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Curvature.md"
+                "file": "content/notes/Geometry Processing.md"
               }
             }
           }
@@ -163,13 +150,15 @@
   },
   "active": "4439e3b8bb024d30",
   "lastOpenFiles": [
+    "content/notes/Curvature.md",
+    "notes/Arc Length.md",
+    "content/notes/Laplace-Beltrami.md",
+    "notes",
     "content/notes/Taylor Series.md",
     "content/notes/Position Based Dynamics.md",
-    "content/notes/Laplace-Beltrami.md",
     "content/notes/Lagrange Dual Function.md",
     "content/notes/Geometry Processing.md",
     "content/notes/Dirichlet Energy.md",
-    "content/notes/Curvature.md",
     "content/notes/Calculus.md",
     "content/notes/3D Surface Represenations.md",
     "content/notes/Home.md",
