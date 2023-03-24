@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/Home.md",
+                "file": "content/notes/3D Surface Represenations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Home.md",
+                "file": "content/notes/3D Surface Represenations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Home.md",
+                "file": "content/notes/3D Surface Represenations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Home.md"
+                "file": "content/notes/3D Surface Represenations.md"
               }
             }
           }
@@ -150,12 +150,13 @@
   },
   "active": "5906ea9cb535016a",
   "lastOpenFiles": [
+    "content/notes/Laplace-Beltrami.md",
+    "content/notes/Home.md",
     "content/notes/3D Surface Represenations.md",
     "content/notes/Geometry Processing.md",
     "content/notes/Position Based Dynamics.md",
     "content/notes/Lagrange Dual Function.md",
     "content/notes/Dirichlet Energy.md",
-    "content/notes/Home.md",
     "content/notes/Calculus.md",
     "content/notes/Covariance.md",
     "content/notes/cummulative distributive function.md",
@@ -169,7 +170,6 @@
     "content/notes/Bayes Theorem.md",
     "content/notes/Correlation.md",
     "Isometric deformation.md",
-    "content/notes/Laplace-Beltrami.md",
     "content/notes/Laplacian Beltrami Operator.md",
     "content/notes/Taylor Series.md",
     "screenshot.png",

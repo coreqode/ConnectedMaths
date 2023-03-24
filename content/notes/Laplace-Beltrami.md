@@ -1,5 +1,6 @@
 ---
 title: "Laplace-Beltrami Operator"
+tags: "geometry-processing"
 ---  
 Laplace Beltrami operator ($\Delta$) takes a function and gives out another function. It is the generalisation of Euclidean [[Laplacian]] Operator on manifolds. Laplacian eigenfunctions depend on each shape and thus 
  coefficients or learned filters from one shape are not trivially transferable to another.
