@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/Taylor Series.md",
-                "mode": "source",
+                "file": "content/notes/Curvature.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Taylor Series.md",
+                "file": "content/notes/Curvature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Taylor Series.md",
+                "file": "content/notes/Curvature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Taylor Series.md"
+                "file": "content/notes/Curvature.md"
               }
             }
           }
@@ -163,6 +163,7 @@
   },
   "active": "4439e3b8bb024d30",
   "lastOpenFiles": [
+    "content/notes/Taylor Series.md",
     "content/notes/Position Based Dynamics.md",
     "content/notes/Laplace-Beltrami.md",
     "content/notes/Lagrange Dual Function.md",
@@ -185,7 +186,6 @@
     "content/notes/Correlation.md",
     "Isometric deformation.md",
     "content/notes/Laplacian Beltrami Operator.md",
-    "content/notes/Taylor Series.md",
     "screenshot.png",
     "Untitled.canvas",
     "Untitled 2.canvas",
