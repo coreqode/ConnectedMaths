@@ -1,5 +1,6 @@
 ---
 title: "3D Surface Representations"
+tags: "geometry-processing"
 ---
 When we talk about geometry processing, it's mostly about applying algorithms to the geometry models. There are multiple representations of the surface however if we see from the high-level view, there are two major representations. 
 
